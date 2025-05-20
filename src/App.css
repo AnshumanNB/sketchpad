@@ -1,0 +1,15 @@
+.containe {
+  overflow: hidden;
+}
+
+.paraname {
+  padding-bottom: 1vw;
+}
+
+.stage {
+  background-color: white; 
+  border-bottom: 2vw solid #212529;
+  border-left: 10vw solid #212529;
+  border-right: 10vw solid #212529;  
+  border-top: none;
+}
